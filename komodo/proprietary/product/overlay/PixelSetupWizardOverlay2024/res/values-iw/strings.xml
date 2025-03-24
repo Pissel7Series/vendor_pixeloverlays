@@ -2,7 +2,7 @@
 <resources>
     <string name="assistant_description">"‏אם מגדירים את Gemini בתור העוזר הדיגיטלי בטלפון, הוא יכול לעזור לכתוב הודעות תודה, לתכנן אירועים, ללמוד דברים חדשים, להגדיר התראות, להתקשר ועוד.
 
-אחרי שמגדירים את Gemini בטלפון, פשוט לוחצים לחיצה ארוכה על לחצן ההפעלה כדי להתחיל להשתמש ב-Gemini."</string>
+אחרי שמגדירים את Gemini בטלפון, פשוט לוחצים לחיצה ארוכה על כפתור ההפעלה כדי להתחיל להשתמש ב-Gemini."</string>
     <string name="assistant_title">‏‫Gemini, עוזר דיגיטלי מובנה מבוסס-AI</string>
     <string name="moment_activity_item_add_me_summary">כולם מופיעים בתמונה הקבוצתית</string>
     <string name="moment_activity_item_add_me_title">הצטרפות לתמונה</string>

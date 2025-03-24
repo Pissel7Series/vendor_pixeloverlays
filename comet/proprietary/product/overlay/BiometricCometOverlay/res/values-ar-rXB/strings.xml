@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="fingerprint_acquired_immobile">‏‮Reposition‬‏ ‏‮finger.‬‏ ‏‮You‬‏ ‏‮already‬‏ ‏‮touched‬‏ ‏‮with‬‏ ‏‮this‬‏ ‏‮area‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮fingerprint.‬‏</string>
-    <string name="fingerprint_acquired_immobile_short">‏‮Reposition‬‏ ‏‮finger.‬‏ ‏‮You‬‏ ‏‮already‬‏ ‏‮touched‬‏ ‏‮with‬‏ ‏‮this‬‏ ‏‮area.‬‏</string>
-</resources>

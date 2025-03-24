@@ -1,4 +1,4 @@
-# All blobs below are extracted from caiman AP3A.241105.008
+# All blobs below are extracted from caiman BP1A.250305.020
 
 # Pixel Overlays
 -product/overlay/AvatarPickerPixelOverlay.apk

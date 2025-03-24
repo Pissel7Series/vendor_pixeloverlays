@@ -2,7 +2,7 @@
 <resources>
     <string name="fingerprint_unlock_set_unlock_password">Пароль • Отпечаток пальца</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Графический ключ • Отпечаток пальца</string>
-    <string name="fingerprint_unlock_set_unlock_pin">PIN • Отпечаток пальца</string>
+    <string name="fingerprint_unlock_set_unlock_pin">PIN-код • Отпечаток пальца</string>
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без разблокировки по отпечатку пальца</string>
     <string name="fingerprint_unlock_title">Благодаря этой функции вы можете разблокировать телефон с помощью отпечатка пальца. В целях безопасности вам потребуется установить запасной способ разблокировки.</string>
     <string name="security_settings_fingerprint_bad_calibration">Обратитесь в сервисный центр или перейдите на страницу g.co/pixel/fingerprintunlock.</string>

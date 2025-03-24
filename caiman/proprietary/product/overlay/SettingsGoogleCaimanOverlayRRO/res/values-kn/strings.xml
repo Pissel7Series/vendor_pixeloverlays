@@ -13,7 +13,7 @@
 ನೀವು ಯಾರ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತೀರಿ ಎಂಬುದರ ಕುರಿತು ಎಚ್ಚರದಿಂದಿರಿ. ಸೇರಿಸಲಾದ ಯಾವುದೇ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ಗಳಿಗೆ ಈ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
 
 ಗಮನಿಸಿ: ಈ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನೀವು ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint ಅನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
     <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
     <string name="suggested_fingerprint_lock_settings_summary">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು Pixel Imprint ಬಳಸಿ</string>

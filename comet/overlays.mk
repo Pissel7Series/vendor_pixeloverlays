@@ -1,6 +1,5 @@
 PRODUCT_PACKAGES += \
     AvatarPickerPixelOverlay \
-    BiometricCometOverlay \
     CompanionDeviceManagerOverlay \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \

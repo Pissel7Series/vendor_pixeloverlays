@@ -3,7 +3,7 @@
     <string name="fingerprint_unlock_set_unlock_password">Slaptažodis • Piršto atspaudas</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Atrakinimo piešinys • Piršto atspaudas</string>
     <string name="fingerprint_unlock_set_unlock_pin">PIN kodas • Piršto atspaudas</string>
-    <string name="fingerprint_unlock_skip_fingerprint">Tęsti be atrakinimo piršto antspaudu</string>
+    <string name="fingerprint_unlock_skip_fingerprint">Tęsti be atrakinimo piršto atspaudu</string>
     <string name="fingerprint_unlock_title">Naudodami atrakinimą kontroliniu kodu telefoną galite atrakinti su kontroliniu kodu. Saugos sumetimais, įgalinus šią parinktį, reikia naudoti atsarginį ekrano užraktą.</string>
     <string name="security_settings_fingerprint_bad_calibration">Apsilankykite pas taisymo paslaugų teikėją arba adresu g.co/pixel/fingerprintunlock.</string>
     <string name="security_settings_fingerprint_enroll_consent_introduction_title">Atrakinimo kontroliniu kodu leidimas</string>

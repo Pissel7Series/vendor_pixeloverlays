@@ -1,8 +1,7 @@
-# All blobs below are extracted from comet ap4a.250205.002
+# All blobs below are extracted from comet BP1A.250305.020
 
 # Pixel Overlays
 -product/overlay/AvatarPickerPixelOverlay.apk
--product/overlay/BiometricCometOverlay.apk
 -product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
 -product/overlay/DeviceDiagnostics__comet__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
 -product/overlay/DMService__comet__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk

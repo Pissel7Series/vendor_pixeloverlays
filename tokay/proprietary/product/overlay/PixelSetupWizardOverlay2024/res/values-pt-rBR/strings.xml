@@ -8,10 +8,10 @@ Depois de configurar seu smartphone, toque no botão liga/desliga e pressione pa
     <string name="moment_activity_item_add_me_title">Me adicione</string>
     <string name="moment_activity_item_chat_summary">Seu assistente de IA integrado</string>
     <string name="moment_activity_item_circle_summary">Pesquise o que está na tela</string>
-    <string name="moment_activity_item_circle_title">Circular para pesquisar</string>
+    <string name="moment_activity_item_circle_title">Circule para pesquisar</string>
     <string name="moment_activity_item_imagine_summary">Você imagina, o Pixel cria.</string>
     <string name="moment_activity_item_imagine_title">Studio</string>
     <string name="moment_activity_item_memory_summary">Encontre o que precisa em uma captura de tela</string>
-    <string name="moment_description">Pesquise, salve e organize informações, conclua ações com eficiência e turbine sua criatividade</string>
+    <string name="moment_description">Pesquise, salve e organize informações, agilize tarefas e turbine sua criatividade</string>
     <string name="moment_title">Descubra o melhor da IA do Google</string>
 </resources>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<overlay>
-    <item target="string-array/fingerprint_acquired_vendor" value="\@string-array/fingerprint_acquired_vendor"/>
-</overlay>
