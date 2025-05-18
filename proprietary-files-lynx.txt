@@ -26,4 +26,3 @@
 -product/overlay/UdfpsOverlay.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
--vendor/overlay/SettingsGoogle__lynx__auto_generated_rro_vendor.apk:product/overlay/SettingsGoogleLynxOverlayVendorRRO.apk

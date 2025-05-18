@@ -24,4 +24,3 @@ PRODUCT_PACKAGES += \
     UdfpsOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022 \
-    SettingsGoogleCheetahOverlayVendorRRO \
