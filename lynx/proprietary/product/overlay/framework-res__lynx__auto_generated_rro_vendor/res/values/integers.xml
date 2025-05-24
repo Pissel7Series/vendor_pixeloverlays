@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_accessibilityColorMode">2</integer>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">1000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
+    <integer name="config_customizedMaxCachedProcesses">1024</integer>
+    <integer name="config_defaultAlarmVibrationIntensity">3</integer>
+    <integer name="config_defaultHapticFeedbackIntensity">3</integer>
+    <integer name="config_defaultMediaVibrationIntensity">3</integer>
+    <integer name="config_defaultNotificationVibrationIntensity">3</integer>
+    <integer name="config_defaultPeakRefreshRate">60</integer>
+    <integer name="config_defaultRefreshRate">0</integer>
+    <integer name="config_defaultRefreshRateInHbmHdr">60</integer>
+    <integer name="config_defaultRefreshRateInZone">90</integer>
+    <integer name="config_defaultRingVibrationIntensity">3</integer>
+    <integer name="config_delay_for_ims_dereg_millis">3000</integer>
+    <integer name="config_fixedRefreshRateInHighZone">60</integer>
+    <integer name="config_multiuserMaximumUsers">4</integer>
+    <integer name="config_nightDisplayColorTemperatureDefault">4000</integer>
+    <integer name="config_num_physical_slots">2</integer>
+    <integer name="config_pinnerHomePinBytes">6291456</integer>
+    <integer name="config_pinnerWebviewPinBytes">20971520</integer>
+    <integer name="config_reduceBrightColorsStrengthDefault">35</integer>
+    <integer name="config_reduceBrightColorsStrengthMax">50</integer>
+    <integer name="config_reduceBrightColorsStrengthMin">25</integer>
+    <integer name="config_screenBrightnessDim">6</integer>
+    <integer name="config_screenBrightnessDoze">34</integer>
+    <integer name="config_shutdownBatteryTemperature">600</integer>
+</resources>

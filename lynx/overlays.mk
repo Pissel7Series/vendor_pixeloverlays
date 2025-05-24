@@ -11,7 +11,7 @@ PRODUCT_PACKAGES += \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFutureLynxOverlay \
     SettingsGoogleLynxOverlay \
-    SettingsGoogleLynxOverlayRRO \
+    SettingsGooglelynxOverlayRRO \
     SettingsProviderOverlay \
     SimAppDialogOverlay \
     StorageManagerGoogleOverlay \
@@ -24,3 +24,7 @@ PRODUCT_PACKAGES += \
     UdfpsOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022 \
+    SettingsGooglelynxOverlayVendorRRO \
+    SystemUIGoogle__lynx__auto_generated_rro_vendor \
+    TeleService__lynx__auto_generated_rro_vendor \
+    framework-res__lynx__auto_generated_rro_vendor \

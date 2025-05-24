@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_hapticChannelMaxVibrationAmplitude">0.335</item>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.17429718</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
+    <dimen name="quick_qs_offset_height">171.0px</dimen>
+    <dimen name="quick_qs_total_height">177.0dip</dimen>
+    <dimen name="rounded_corner_content_padding">47.0px</dimen>
+    <dimen name="rounded_corner_radius">47.0px</dimen>
+    <dimen name="rounded_corner_radius_adjustment">5.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">48.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom_adjustment">4.0px</dimen>
+    <dimen name="rounded_corner_radius_top">47.0px</dimen>
+    <dimen name="rounded_corner_radius_top_adjustment">5.0px</dimen>
+    <dimen name="status_bar_height_default">28.0dip</dimen>
+    <dimen name="status_bar_height_landscape">28.0dip</dimen>
+    <dimen name="status_bar_height_portrait">136.0px</dimen>
+</resources>

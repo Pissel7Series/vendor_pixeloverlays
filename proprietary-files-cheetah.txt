@@ -26,3 +26,7 @@
 -product/overlay/UdfpsOverlay.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__cheetah__auto_generated_rro_vendor.apk:product/overlay/SettingsGooglecheetahOverlayVendorRRO.apk
+-vendor/overlay/SystemUIGoogle__cheetah__auto_generated_rro_vendor.apk:product/overlay/SystemUIGoogle__cheetah__auto_generated_rro_vendor.apk
+-vendor/overlay/TeleService__cheetah__auto_generated_rro_vendor.apk:product/overlay/TeleService__cheetah__auto_generated_rro_vendor.apk
+-vendor/overlay/framework-res__cheetah__auto_generated_rro_vendor.apk:product/overlay/framework-res__cheetah__auto_generated_rro_vendor.apk

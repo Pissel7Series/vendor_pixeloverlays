@@ -11,7 +11,7 @@
 -product/overlay/PixelBatteryHealthOverlay.apk
 -product/overlay/PixelConfigOverlay2021.apk
 -product/overlay/SafetyRegulatoryInfo__panther__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
--product/overlay/SettingsGoogle__panther__auto_generated_rro_product.apk:product/overlay/SettingsGooglePantherOverlayRRO.apk
+-product/overlay/SettingsGoogle__panther__auto_generated_rro_product.apk:product/overlay/SettingsGooglepantherOverlayRRO.apk
 -product/overlay/SettingsGooglePantherOverlay.apk
 -product/overlay/SettingsGoogleFuturePantherOverlay.apk
 -product/overlay/SettingsProvider__panther__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
@@ -26,4 +26,7 @@
 -product/overlay/UdfpsOverlay.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
-
+-vendor/overlay/SettingsGoogle__panther__auto_generated_rro_vendor.apk:product/overlay/SettingsGooglepantherOverlayVendorRRO.apk
+-vendor/overlay/SystemUIGoogle__panther__auto_generated_rro_vendor.apk:product/overlay/SystemUIGoogle__panther__auto_generated_rro_vendor.apk
+-vendor/overlay/TeleService__panther__auto_generated_rro_vendor.apk:product/overlay/TeleService__panther__auto_generated_rro_vendor.apk
+-vendor/overlay/framework-res__panther__auto_generated_rro_vendor.apk:product/overlay/framework-res__panther__auto_generated_rro_vendor.apk

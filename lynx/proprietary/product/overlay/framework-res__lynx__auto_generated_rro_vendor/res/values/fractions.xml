@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="config_prescaleAbsoluteVolume_index1">100.0%</fraction>
+    <fraction name="config_prescaleAbsoluteVolume_index2">100.0%</fraction>
+    <fraction name="config_prescaleAbsoluteVolume_index3">100.0%</fraction>
+</resources>

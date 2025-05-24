@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_carrier_text_margin">70.0px</dimen>
+    <dimen name="lock_icon_padding">60.0px</dimen>
+    <dimen name="multi_user_switch_keyguard_margin">40.0px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">828.0px</dimen>
+    <dimen name="physical_volume_down_button_center_screen_location_y">1274.0px</dimen>
+    <dimen name="physical_volume_up_button_center_screen_location_y">1130.0px</dimen>
+    <item type="dimen" name="pixel_pitch">49.6</item>
+    <item type="dimen" name="status_bar_header_height_keyguard">@android:dimen/notification_messaging_spacing</item>
+    <dimen name="status_bar_padding_top">1.0px</dimen>
+    <dimen name="system_icons_keyguard_padding_end">6.5dip</dimen>
+    <dimen name="system_icons_super_container_avatarless_margin_end">26.0px</dimen>
+</resources>

@@ -11,7 +11,7 @@
 -product/overlay/PixelBatteryHealthOverlay.apk
 -product/overlay/PixelConfigOverlay2021.apk
 -product/overlay/SafetyRegulatoryInfo__lynx__auto_generated_rro_product.apk:product/overlay/SafetyRegulatoryInfoOverlay.apk
--product/overlay/SettingsGoogle__lynx__auto_generated_rro_product.apk:product/overlay/SettingsGoogleLynxOverlayRRO.apk
+-product/overlay/SettingsGoogle__lynx__auto_generated_rro_product.apk:product/overlay/SettingsGooglelynxOverlayRRO.apk
 -product/overlay/SettingsGoogleLynxOverlay.apk
 -product/overlay/SettingsGoogleFutureLynxOverlay.apk
 -product/overlay/SettingsProvider__lynx__auto_generated_rro_product.apk:product/overlay/SettingsProviderOverlay.apk
@@ -26,3 +26,7 @@
 -product/overlay/UdfpsOverlay.apk
 -product/overlay/WildlifeSettingsVpnOverlay2022.apk
 -product/overlay/WildlifeSysuiVpnOverlay2022.apk
+-vendor/overlay/SettingsGoogle__lynx__auto_generated_rro_vendor.apk:product/overlay/SettingsGooglelynxOverlayVendorRRO.apk
+-vendor/overlay/SystemUIGoogle__lynx__auto_generated_rro_vendor.apk:product/overlay/SystemUIGoogle__lynx__auto_generated_rro_vendor.apk
+-vendor/overlay/TeleService__lynx__auto_generated_rro_vendor.apk:product/overlay/TeleService__lynx__auto_generated_rro_vendor.apk
+-vendor/overlay/framework-res__lynx__auto_generated_rro_vendor.apk:product/overlay/framework-res__lynx__auto_generated_rro_vendor.apk

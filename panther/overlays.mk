@@ -11,7 +11,7 @@ PRODUCT_PACKAGES += \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFuturePantherOverlay \
     SettingsGooglePantherOverlay \
-    SettingsGooglePantherOverlayRRO \
+    SettingsGooglepantherOverlayRRO \
     SettingsProviderOverlay \
     SimAppDialogOverlay \
     StorageManagerGoogleOverlay \
@@ -24,3 +24,7 @@ PRODUCT_PACKAGES += \
     UdfpsOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022 \
+    SettingsGooglepantherOverlayVendorRRO \
+    SystemUIGoogle__panther__auto_generated_rro_vendor \
+    TeleService__panther__auto_generated_rro_vendor \
+    framework-res__panther__auto_generated_rro_vendor \

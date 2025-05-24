@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_rounded_mask_size">47.0px</dimen>
+    <dimen name="config_rounded_mask_size_bottom">46.0px</dimen>
+    <dimen name="config_rounded_mask_size_top">47.0px</dimen>
+    <dimen name="keyguard_carrier_text_margin">0.0px</dimen>
+    <dimen name="lock_icon_padding">48.0px</dimen>
+    <dimen name="multi_user_switch_keyguard_margin">6.0dip</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">776.0px</dimen>
+    <dimen name="physical_volume_down_button_center_screen_location_y">1262.0px</dimen>
+    <dimen name="physical_volume_up_button_center_screen_location_y">1100.0px</dimen>
+    <item type="dimen" name="pixel_pitch">61.0</item>
+    <item type="dimen" name="status_bar_header_height_keyguard">@android:dimen/notification_messaging_spacing</item>
+    <dimen name="status_bar_padding_start">0.0dip</dimen>
+    <dimen name="status_bar_padding_top">1.0px</dimen>
+    <dimen name="system_icons_super_container_avatarless_margin_end">11.0px</dimen>
+    <dimen name="udfps_burn_in_offset_y">16.0px</dimen>
+</resources>
